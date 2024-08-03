@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Programador Front-End",
+        "description": "Tengo experiencia creando interfaces de usuario atractivas y funcionales utilizando tecnologías como HTML, CSS y JavaScript."
+    },
+    {
+        "title": "Programador Back-End",
+        "description": "Como programador back-end, me especializo en el desarrollo de la lógica y la funcionalidad detrás de las aplicaciones, utilizando lenguajes como JavaScript con NodeJS o Python."
+    },
+    {
+        "title": "Mantenimiento web",
+        "description": "Me dedico a garantizar la estabilidad y seguridad de los sitios, implementando actualizaciones de software, parches de seguridad y mejoras de rendimiento."
+    },
+    {
+        "title": "Progrmador Full-Stack",
+        "description": "Desarrollo del lado del cliente (front-end) como en el del servidor (back-end). Utilizo diversas tecnologías como HTML, CSS, JavaScript, Node.js, Express, Flask y bases de datos como MySQL. Mi versatilidad me permite diseñar y construir aplicaciones web completas, abordando todos los aspectos del desarrollo de software."
+    },
+    {
+        "title": "Fast",
+        "description": "Mi enfoque se centra en la eficiencia y la entrega de soluciones ágiles. Con habilidades avanzadas en el manejo de lenguajes como Python y JavaScript, optimizo el desarrollo de software, manteniendo altos estándares de calidad. Mi capacidad para resolver problemas de manera rápida y efectiva contribuye a la implementación puntual de proyectos."
+    },
+    {
+        "title": "Base de datos",
+        "description": "Como programador, poseo habilidades en el manejo de bases de datos, desde el diseño hasta la optimización del rendimiento. Mi experiencia incluye el de lenguajes SQL para consultas y la gestión eficiente de sistemas de gestión de bases de datos. Además, soy competente en el modelado de datos y la implementación de soluciones escalables y seguras."
+    }
+]

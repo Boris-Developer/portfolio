@@ -1,0 +1,25 @@
+{
+    "projects": [
+        {
+            "title": "Proyecto 1",
+            "description": "Aplicacion web de Gestion de Mantenimiento de maquinarias.",
+            "image": "images/dashboard.jpg"
+        },
+        {
+            "title": "Proyecto 2",
+            "description": "Pagina web portafolio personalizado.",
+            "image": "images/portfolio.jpg"
+        },
+        {
+            "title": "Proyecto 3",
+            "description": "Página web responsive para restaurante, adaptable a cualquier pantalla.",
+            "image": "images/restaurant.jpeg"
+        },
+        {
+            "title": "Proyecto 4",
+            "description": "Página web blog dinámico.",
+            "image": "images/blog.jpg"
+        }
+    ]
+}
+

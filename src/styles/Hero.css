@@ -1,0 +1,46 @@
+.expand-on-hover {
+    transition: transform 0.3s ease-in-out;
+  }
+
+.expand-on-hover:hover {
+    transform: scale(1.1);
+}
+
+@keyframes moveUpDown {
+    0%, 100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-20px); /* Ajusta la distancia del movimiento hacia arriba */
+    }
+}
+
+.imgRobot {
+    animation: moveUpDown 4s infinite;
+}
+
+@keyframes moveHorizontal1 {
+    0%, 100% {
+      transform: translateX(0);
+    }
+    50% {
+      transform: translateX(-20px); /* Ajusta la distancia del movimiento hacia arriba */
+    }
+}
+
+.divTarjeta1 {
+    animation: moveHorizontal1 4s infinite;
+}
+
+@keyframes moveHorizontal2 {
+  0%, 100% {
+    transform: translateX(-20px);
+  }
+  50% {
+    transform: translateX(0);
+  }
+}
+
+.divTarjeta2 {
+  animation: moveHorizontal2 4s infinite;
+}

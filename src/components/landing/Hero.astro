@@ -1,0 +1,27 @@
+---
+import Matrix from '../matrix.astro';
+import '../../styles/Hero.css';
+---
+<header class="flex flex-col items-center md:flex-row p-12 gap-3 text-center md:text-left rounded-xl"> <!-- responsive -->
+    <Matrix/>
+    <div class="md:w-5/12 md:h-auto md:ml-24 z-20">
+        <img src="images/robot.png" class="rounded-full imgRobot" alt="Robot futurista" loading="eager">
+    </div>
+    <div class="md:ml-14">
+        <div class="inline-block p-2 divTarjeta2">
+            <h1 class="text-7xl font-bold pb-2 text-cyan-400 expand-on-hover inline-block hola">Hola</h1><br/>
+            <h2 class="text-3xl font-bold pb-2 text-cyan-200 expand-on-hover inline-block miNombre">Soy Boris</h2>
+        </div>
+        <div class="bg-gradient-to-tr from-slate-900 to-slate-700 p-2 mt-10 h-40 w-72 flex flex-col divTarjeta1">
+            <p><span class="text-purple-400">function hola() &#123</span></p>
+            <p class="text-cyan-100">Soy un apacionado programador web con experiencia en la creacion y optimizacion de sitios atractivos y funcionales.<span class="text-purple-500">&#125</span></p>
+        </div>
+        <div class="bg-gradient-to-tr from-slate-900 to-slate-700 p-2 mt-5 h-40 w-72 flex items-center md:ml-20 divTarjeta2">
+            <p class="m-2 text-base text-cyan-100">
+                Mi destreza incluye el dominio de tecnologías de vanguardia: desde el imponente poder de la inteligencia artificial hasta la elegancia de la experiencia del usuario.
+            </p>
+        </div>
+    </div>
+</header>
+
+
