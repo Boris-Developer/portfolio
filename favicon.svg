@@ -1,9 +1,94 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 128 128">
-    <path d="M50.4 78.5a75.1 75.1 0 0 0-28.5 6.9l24.2-65.7c.7-2 1.9-3.2 3.4-3.2h29c1.5 0 2.7 1.2 3.4 3.2l24.2 65.7s-11.6-7-28.5-7L67 45.5c-.4-1.7-1.6-2.8-2.9-2.8-1.3 0-2.5 1.1-2.9 2.7L50.4 78.5Zm-1.1 28.2Zm-4.2-20.2c-2 6.6-.6 15.8 4.2 20.2a17.5 17.5 0 0 1 .2-.7 5.5 5.5 0 0 1 5.7-4.5c2.8.1 4.3 1.5 4.7 4.7.2 1.1.2 2.3.2 3.5v.4c0 2.7.7 5.2 2.2 7.4a13 13 0 0 0 5.7 4.9v-.3l-.2-.3c-1.8-5.6-.5-9.5 4.4-12.8l1.5-1a73 73 0 0 0 3.2-2.2 16 16 0 0 0 6.8-11.4c.3-2 .1-4-.6-6l-.8.6-1.6 1a37 37 0 0 1-22.4 2.7c-5-.7-9.7-2-13.2-6.2Z" />
-    <style>
-        path { fill: #000; }
-        @media (prefers-color-scheme: dark) {
-            path { fill: #FFF; }
-        }
-    </style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="50"
+   height="50"
+   viewBox="0 0 50 49.999998"
+   sodipodi:docname="logo-circular.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7">
+      <path
+         id="lpe_path-effect8"
+         style="fill:none;stroke:#000000;stroke-width:0.72;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         class="powerclip"
+         d="M -362.59998,-184.04 H 5.3599757 V 184.04 H -362.59998 Z M -203.70001,0 -170.1,-19.38 V -98.220002 L -267.96001,-154.74 V 154.8 L -170.1,98.280002 V 19.44 Z" />
+    </clipPath>
+    <mask
+       maskUnits="userSpaceOnUse"
+       id="mask-powermask-path-effect15">
+      <path
+         id="mask-powermask-path-effect15_box"
+         style="fill:#ffffff;fill-opacity:1"
+         d="M -358.59998,-180.04 H 1.3599757 V 180.04 H -358.59998 Z" />
+      <path
+         id="path15"
+         d="M -30.000001,17.4 -124.98,-37.380001 V 72.240002 l -30.06,17.34 V -89.520002 L 0.06,0 Z"
+         style="display:inline;fill:#1a1a1a;stroke:#000000;stroke-width:0.72;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1" />
+    </mask>
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.86603417"
+     inkscape:cx="341.7879"
+     inkscape:cy="591.77804"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="2"
+     style="display:inline"
+     transform="translate(-147.19972,-316.71919)">
+    <g
+       id="g2"
+       inkscape:export-filename="logo-circular.svg"
+       inkscape:export-xdpi="100.56984"
+       inkscape:export-ydpi="100.56984"
+       transform="matrix(0.06285605,0,0,0.06283544,147.94735,306.81791)">
+      <path
+         id="path7"
+         clip-path="url(#clipPath7)"
+         mask="url(#mask-powermask-path-effect15)"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.72;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         d="m -181.19971,178.68059 -5.16065,-0.18018 c -91.7039,-4.05899 -165.1666,-76.55927 -170.57959,-168.180175 l -0.24023,-5.160645 -0.0601,-5.15917984374 0.0601,-5.16064465626 0.24023,-5.1591795 c 5.41299,-91.620906 78.87569,-164.121186 170.57959,-168.180176 l 5.16065,-0.18018 h 5.15918 c 91.875906,1.528 167.2798936,71.73786 175.37988545,163.25977 l 0.36035157,5.100586 0.24023439,5.1591795 L 0,4.1015626e-4 -0.06005859,5.15959 -0.30029298,10.320235 -0.66064455,15.419356 C -8.7606364,106.94126 -84.164624,177.15259 -176.04053,178.68059 Z m 71.2793,-115.141116 64.86035,-37.439942 -64.86035,-37.439942 z"
+         transform="matrix(1.3333333,0,0,-1.3333333,624,555.44)" />
+      <path
+         id="path3"
+         d="M 0,0 19.68,11.34 0,22.68 Z"
+         style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.72;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(1.3333333,0,0,-1.3333333,497.52,535.76)" />
+      <path
+         id="path5"
+         d="M 0,0 37.62,21.72 V 65.88 L 0,87.6 Z"
+         style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.72;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(1.3333333,0,0,-1.3333333,306.88,535.36)" />
+      <path
+         id="path6"
+         d="m 0,0 v -44.16 l -37.62,-21.72 v 87.6 z"
+         style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.72;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         transform="matrix(1.3333333,0,0,-1.3333333,357.04,604.4)" />
+    </g>
+  </g>
 </svg>
